@@ -1,1 +1,2 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+*MRETillsonburgPromotionalVideoSeptember2023.mp4 filter=lfs diff=lfs merge=lfs -text
